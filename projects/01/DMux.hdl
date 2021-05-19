@@ -15,5 +15,4 @@ CHIP DMux {
 
     PARTS:
     // Put your code here:
-    If sel=0 then {a=in, b=0} else {a=0, b=in}
 }

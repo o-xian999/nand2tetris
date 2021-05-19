@@ -19,12 +19,4 @@ CHIP Mux8Way16 {
 
     PARTS:
     // Put your code here:
-    If sel=000 then out=a
-    else if sel=001 then out=b
-    else if sel=010 then out=c
-    else if sel=011 then out=d
-    else if sel=100 then out=e
-    else if sel=101 then out=f
-    else if sek=110 then out=g
-    else if sel=111 then out=h
 }

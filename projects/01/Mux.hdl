@@ -15,5 +15,4 @@ CHIP Mux {
 
     PARTS:
     // Put your code here:
-    If sel=0 then out=a else out=b
 }

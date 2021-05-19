@@ -14,5 +14,4 @@ CHIP Xor {
 
     PARTS:
     // Put your code here:
-    If a!=b then out=0 else out=1
 }

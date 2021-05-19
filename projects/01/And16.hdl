@@ -14,5 +14,4 @@ CHIP And16 {
 
     PARTS:
     // Put your code here:
-    For i=0..15 out[i]=And(a[i], b[i])
 }

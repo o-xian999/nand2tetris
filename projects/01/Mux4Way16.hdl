@@ -17,8 +17,4 @@ CHIP Mux4Way16 {
 
     PARTS:
     // Put your code here:
-    If sel=00 then out=a 
-    else if sel=01 then out=b
-    else if sel=10 then out=c
-    else if sel~11 then out=d
 }
